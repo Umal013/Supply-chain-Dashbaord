@@ -1,5 +1,6 @@
 # Supply-chain-Dashbaord
 📦 Supply Chain Management Dashboard – Power BI
+
 📊 Project Overview
 
 This project presents an interactive Supply Chain Management Dashboard built using Microsoft Power BI. The dashboard provides a comprehensive view of supply chain operations, enabling stakeholders to monitor capacity, product distribution, cost efficiency, plant performance, warehouse activity, and logistics metrics in real time.
@@ -151,6 +152,7 @@ Add inventory turnover metrics
 👨‍💻 Author
 
 Umal Nitharwal
+
 Data Analyst | Power BI Developer
 
 🔗 LinkedIn: https://www.linkedin.com/in/umal-nitharwal-7a10992b1
