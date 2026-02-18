@@ -153,4 +153,4 @@ Add inventory turnover metrics
 Umal Nitharwal
 Data Analyst | Power BI Developer
 
-🔗 LinkedIn:
+🔗 LinkedIn: https://www.linkedin.com/in/umal-nitharwal-7a10992b1
